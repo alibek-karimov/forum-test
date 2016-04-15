@@ -1,4 +1,3 @@
-# forum-test
 Forum application required to be installed:
 - NodeJS
 - bower

@@ -1,0 +1,24 @@
+{
+  "name": "test-forum",
+  "version": "0.0.0",
+  "authors": [
+    "alibek.karimov <alibek.karimov@gmail.com>"
+  ],
+  "main": "web.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "directory": "web/libs",
+  "dependencies": {
+    "angular": "~1.5.3",
+    "bootstrap": "~3.3.6"
+  }
+}
