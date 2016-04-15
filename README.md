@@ -5,16 +5,20 @@ Forum application required to be installed:
 
 
 In forum directory run:
-    npm install
+    '''
+npm install
+    '''
 
 Then run:
-    bower install
+    '''
+bower install
+    '''
 
 
 To start appliction:
-    node server.js
+    '''
+node server.js
+    '''
 
 Application available on port 5555 (http://localhost:5555).
 
-To run test:
-    make test;
